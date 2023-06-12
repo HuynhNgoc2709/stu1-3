@@ -104,7 +104,7 @@ function stuProgress(e) {
 // xu ly click btn
 function handleStu(id) {
 	idElmt = getid(id);
-	synSTUbtn('ADD', 'link_4sub_com', location.hostname);
+	synSTUbtn('ADD', 'link_4sub_com', linkSTU);
 	synSTUbtn('ADD', id, idElmt.innerText);
 	remCt(idElmt, 'loader');
 	addCt(idElmt, 'done');
