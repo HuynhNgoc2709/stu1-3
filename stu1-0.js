@@ -55,37 +55,12 @@ function stuProgress(t) {
 }
 
 
-function synSTUbtn(t, e, r) {
-	"ADD" === t || "UPD" === t ? objStuBtn[e] = {
-		id: e
-		, status: r
-	} : "DEL" === t && delete objStuBtn[e], sessionStorage.setItem(LS_STU, JSON.stringify(objStuBtn))
-}
-
-function gSTUbtn(t, e) {
-	let r = getid(t);
-	if (r) {
-		if (r.innerHTML = "Completed", addCt(qSel("#" + t), "done"), r.nextElementSibling.removeAttribute("disabled"), r.classList.contains("last")) {
-			let s = qSell("#Ctn-STU > .full");
-			s.forEach(t => {
-				t.removeAttribute("disabled"), t.style.backgroundColor = "rgba(0, 221, 0, 1)", remCt(t, "full"), addCt(t, "unlock")
-			})
-		}
-		arrStuM2.push(t);
-		let u = arrStuM1.indexOf(t);
-		u > -1 && arrStuM1.splice(u, 1), getid("prog01")
-			.innerHTML = arrStuM2.length, stuBar.style.width = n * arrStuM2.length + "%", n * arrStuM2.length == 100 && addCt(stuBar, "s")
-	}
-}
 
 function handleStu(t) {
-	idElmt = getid(t), synSTUbtn("ADD", "link_4sub_com", linkSTU), synSTUbtn("ADD", t, idElmt.innerText), remCt(idElmt, "loader"), addCt(idElmt,
+	idElmt = getid(t), synSTUbtn("ADD", "link_4sub_com", location.hostname), synSTUbtn("ADD", t, idElmt.innerText), remCt(idElmt, "loader"), addCt(idElmt,
 		"done"), idElmt.innerText = txtCompleted, stuProgress(t)
 }
-linkSTU === objStuBtn.link_4sub_com?.status ? Object.entries(objStuBtn)
-	.forEach(([t, e]) => {
-		gSTUbtn(t, e)
-	}) : sessionStorage.removeItem(LS_STU);
+
 for (let i = 1; i <= 11; i++) {
 	let s = qSel(`#link4sub-${i}`);
 	null != s && s.addEventListener("click", () => {
