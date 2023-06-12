@@ -1,1 +1,145 @@
-var _0x50a523=_0x4964;function _0x4964(_0x130093,_0x1d384a){var _0x2a6c3a=_0x2a6c();return _0x4964=function(_0x496486,_0x366b5e){_0x496486=_0x496486-0x1d6;var _0x3f0441=_0x2a6c3a[_0x496486];return _0x3f0441;},_0x4964(_0x130093,_0x1d384a);}(function(_0x3876df,_0x5bea94){var _0x465911=_0x4964,_0x487be9=_0x3876df();while(!![]){try{var _0x54be01=parseInt(_0x465911(0x1e3))/0x1+-parseInt(_0x465911(0x20d))/0x2*(parseInt(_0x465911(0x20b))/0x3)+parseInt(_0x465911(0x220))/0x4+-parseInt(_0x465911(0x221))/0x5*(parseInt(_0x465911(0x21a))/0x6)+parseInt(_0x465911(0x1dd))/0x7+parseInt(_0x465911(0x1d6))/0x8*(parseInt(_0x465911(0x1f2))/0x9)+parseInt(_0x465911(0x1f7))/0xa;if(_0x54be01===_0x5bea94)break;else _0x487be9['push'](_0x487be9['shift']());}catch(_0x36a48e){_0x487be9['push'](_0x487be9['shift']());}}}(_0x2a6c,0x943cf));var gbStu=qSell(_0x50a523(0x1e5));if(gbStu['length']>0x0){for(var t,i=0x0;i<gbStu[_0x50a523(0x1df)];i++){var e=i+0x1;gbStu[i]['id']=_0x50a523(0x1e1)+e,gbStu[i][_0x50a523(0x224)]=!0x0;}gbStu[0x0][_0x50a523(0x224)]=!0x1,gbStu[gbStu[_0x50a523(0x1df)]-0x1]['classList']['add']('last');}else{for(var nbStu=qSell(_0x50a523(0x1f3)),i=0x0;i<nbStu[_0x50a523(0x1df)];i++)nbStu[i][_0x50a523(0x1ef)](_0x50a523(0x224)),nbStu[i][_0x50a523(0x222)]['remove'](_0x50a523(0x212)),nbStu[i][_0x50a523(0x222)][_0x50a523(0x21e)](_0x50a523(0x1e0)),nbStu[i][_0x50a523(0x1e6)]=_0x50a523(0x1ed);}var stuBar=getid(_0x50a523(0x1ee)),arrStuM1=[],arrStuM2=[],stuM1=qSell(_0x50a523(0x1f6));function _0x2a6c(){var _0x454598=['true','unfilled','add','data-ad-status','624020LIUiGW','10eBDBit','classList','click','disabled','hidden','184mxNERj','last','100%','DEL','removeItem','blur','ADD','626206azKCOx','innerText','length','unlock','link4sub-','p-width','582260qCVFHd','</p>','button.rpStu','style','#Ctn-STU\x20>\x20.full','innerHTML','#link4sub-','splice','width','rgba(0,\x20221,\x200,\x201)','background-color:\x20rgb(0,\x20221,\x200);','stuBar','removeAttribute','link_4sub_com','loader','282573yyXhgx','#Ctn-STU\x20>\x20*','<p\x20id=\x22xnAD\x22\x20class=\x22note\x22>','prog01','#Ctn-STU\x20>\x20.rpStu','5825380DItnYa','stringify','xnAD','setItem','done','msgWr','log','s-AD','getAttribute','.rpStu.s-AD\x20+\x20#link4sub-2','Click...','t-width','forEach','100','now','entries','beforebegin','nextElementSibling','indexOf','setAttribute','41583kiruZL','\x20iframe','122VyYVQE','addEventListener','push','parentNode','toFixed','full','G_CLICK','remove','background-color:\x20rgba(0,\x20221,\x200,\x201)','prog02','dt-ad','s-width','UPD','2039064zmIMwp','contains'];_0x2a6c=function(){return _0x454598;};return _0x2a6c();}if(stuM1[_0x50a523(0x1df)]>0x0)for(var i=0x0;i<stuM1[_0x50a523(0x1df)];i++){var r=stuM1[i][_0x50a523(0x1ff)]('id');arrStuM1[_0x50a523(0x20f)](r),getid(_0x50a523(0x216))['innerHTML']=arrStuM1[_0x50a523(0x1df)];var n=0x64/arrStuM1[_0x50a523(0x1df)];stuBar[_0x50a523(0x20a)](_0x50a523(0x218),'0'),stuBar[_0x50a523(0x20a)](_0x50a523(0x1e2),n);}function stuProgress(_0x42db81){var _0x5283db=_0x50a523;getid(_0x42db81)[_0x5283db(0x222)][_0x5283db(0x21b)]('done')&&setTimeout(()=>{var _0x47a9dd=_0x5283db,_0x1f2cc7=getid(_0x42db81)[_0x47a9dd(0x1ff)]('id');arrStuM2[_0x47a9dd(0x20f)](_0x1f2cc7);var _0x295389=arrStuM1[_0x47a9dd(0x209)](_0x1f2cc7);_0x295389>-0x1&&arrStuM1[_0x47a9dd(0x1ea)](_0x295389,0x1),getid(_0x47a9dd(0x1f5))[_0x47a9dd(0x1e8)]=arrStuM2[_0x47a9dd(0x1df)];var _0x2edc56=stuBar[_0x47a9dd(0x1ff)](_0x47a9dd(0x202));null!=_0x2edc56&&stuBar[_0x47a9dd(0x20a)](_0x47a9dd(0x218),_0x2edc56);var _0x49fa4c=stuBar['getAttribute'](_0x47a9dd(0x1e2))*arrStuM2[_0x47a9dd(0x1df)];stuBar[_0x47a9dd(0x20a)](_0x47a9dd(0x202),_0x49fa4c),_0x47a9dd(0x204)==_0x49fa4c&&addCt(stuBar,'s');var _0x4f76b2=0x0;!function _0x2e3138(){var _0x3956a3=_0x47a9dd;if(0x0==_0x4f76b2){_0x4f76b2=0x1;var _0x455817=getid('stuBar'),_0x375f94=_0x455817['getAttribute']('s-width'),_0x435648=_0x455817[_0x3956a3(0x1ff)]('t-width'),_0x2c8169=setInterval(function _0x2bc99b(){var _0x3eb568=_0x3956a3;_0x375f94>=0x64?(clearInterval(_0x2c8169),_0x4f76b2=0x0):++_0x375f94<=_0x435648&&(_0x455817[_0x3eb568(0x1e6)][_0x3eb568(0x1eb)]=_0x375f94[_0x3eb568(0x211)](0x0)+'%',0x64==_0x435648&&Number(_0x435648)-_0x375f94['toFixed'](0x0)<=0x1&&(_0x455817[_0x3eb568(0x1e6)][_0x3eb568(0x1eb)]=_0x3eb568(0x1d8)));},0x19);}}();},tPg),getid(_0x42db81)[_0x5283db(0x222)][_0x5283db(0x21b)](_0x5283db(0x1d7))&&setTimeout(()=>{var _0x53ab52=_0x5283db;for(var _0x4ea20e=qSell('#Ctn-STU\x20>\x20.full'),_0x3bcc1e=0x0;_0x3bcc1e<_0x4ea20e[_0x53ab52(0x1df)];_0x3bcc1e++)_0x4ea20e[_0x3bcc1e][_0x53ab52(0x1ef)](_0x53ab52(0x224)),_0x4ea20e[_0x3bcc1e]['setAttribute'](_0x53ab52(0x1e6),_0x53ab52(0x215)),remCt(_0x4ea20e[_0x3bcc1e],'full'),addCt(_0x4ea20e[_0x3bcc1e],_0x53ab52(0x1e0));},tDelayU);}function synSTUbtn(_0xd14db6,_0x1a4414,_0x5eeeb7){var _0xd30798=_0x50a523;'ADD'===_0xd14db6||_0xd30798(0x219)===_0xd14db6?objStuBtn[_0x1a4414]={'id':_0x1a4414,'status':_0x5eeeb7}:_0xd30798(0x1d9)===_0xd14db6&&delete objStuBtn[_0x1a4414],sessionStorage[_0xd30798(0x1fa)](LS_STU,JSON[_0xd30798(0x1f8)](objStuBtn));}function gSTUbtn(_0x415c70,_0x392edb){var _0x4d341d=_0x50a523;let _0x1474c8=getid(_0x415c70);if(_0x1474c8){if(_0x1474c8[_0x4d341d(0x1e8)]='Completed',addCt(qSel('#'+_0x415c70),_0x4d341d(0x1fb)),_0x1474c8[_0x4d341d(0x208)]['removeAttribute'](_0x4d341d(0x224)),_0x1474c8[_0x4d341d(0x222)]['contains']('last')){let _0x50f786=qSell(_0x4d341d(0x1e7));_0x50f786['forEach'](_0x21b570=>{var _0x2e288f=_0x4d341d;_0x21b570[_0x2e288f(0x1ef)](_0x2e288f(0x224)),_0x21b570['style']['backgroundColor']=_0x2e288f(0x1ec),remCt(_0x21b570,_0x2e288f(0x212)),addCt(_0x21b570,_0x2e288f(0x1e0));});}arrStuM2[_0x4d341d(0x20f)](_0x415c70);let _0xbdfdbb=arrStuM1[_0x4d341d(0x209)](_0x415c70);_0xbdfdbb>-0x1&&arrStuM1[_0x4d341d(0x1ea)](_0xbdfdbb,0x1),getid(_0x4d341d(0x1f5))[_0x4d341d(0x1e8)]=arrStuM2[_0x4d341d(0x1df)],stuBar[_0x4d341d(0x1e6)][_0x4d341d(0x1eb)]=n*arrStuM2[_0x4d341d(0x1df)]+'%',n*arrStuM2[_0x4d341d(0x1df)]==0x64&&addCt(stuBar,'s');}}function handleStu(_0xc326b5){var _0x19439f=_0x50a523;idElmt=getid(_0xc326b5),synSTUbtn(_0x19439f(0x1dc),_0x19439f(0x1f0),linkSTU),synSTUbtn('ADD',_0xc326b5,idElmt['innerText']),remCt(idElmt,_0x19439f(0x1f1)),addCt(idElmt,_0x19439f(0x1fb)),idElmt[_0x19439f(0x1de)]=txtCompleted,stuProgress(_0xc326b5);}linkSTU===objStuBtn[_0x50a523(0x1f0)]?.['status']?Object[_0x50a523(0x206)](objStuBtn)[_0x50a523(0x203)](([_0x24fc31,_0x22c651])=>{gSTUbtn(_0x24fc31,_0x22c651);}):sessionStorage[_0x50a523(0x1da)](LS_STU);for(let i=0x1;i<=0xb;i++){let s=qSel(_0x50a523(0x1e9)+i);null!=s&&s[_0x50a523(0x20e)](_0x50a523(0x223),()=>{var _0x590cb3=_0x50a523;if(s['classList'][_0x590cb3(0x21b)](_0x590cb3(0x1fb))||s['classList']['contains'](_0x590cb3(0x1fe))){if(!s[_0x590cb3(0x222)]['contains'](_0x590cb3(0x1fb))&&s['classList'][_0x590cb3(0x21b)](_0x590cb3(0x1fe))){addCt(s,_0x590cb3(0x1f1)),this[_0x590cb3(0x1de)]=txtAd2;let _0x3a4049=setInterval(()=>{var _0x4f6a6e=_0x590cb3,_0x318fb7;_0x4f6a6e(0x21d)==qSel(xAD)[_0x4f6a6e(0x1ff)](_0x4f6a6e(0x21f))&&(clearInterval(_0x3a4049),clearTimeout(_0xeb527d),clearTimeout(_0x4e97b1),setTimeout(()=>{var _0x1a54c4=_0x4f6a6e;handleStu(_0x1a54c4(0x1e1)+i),qSel(_0x1a54c4(0x200))&&setTimeout(()=>{var _0x8dbde7=_0x1a54c4;getid('link4sub-2')[_0x8dbde7(0x1ef)](_0x8dbde7(0x224));},tDelay);},0x7d0));},0x64),_0xeb527d=setTimeout(()=>{var _0x45638a=_0x590cb3;clearInterval(_0x3a4049),qSel('.rpStu.s-AD')['insertAdjacentHTML'](_0x45638a(0x207),_0x45638a(0x1f4)+txtAd3+_0x45638a(0x1e4)),stC('xnAD');},0x3e8),_0x4e97b1=setTimeout(()=>{var _0x365b40=_0x590cb3;stAd(xAD),qSel(xAD)[_0x365b40(0x210)][_0x365b40(0x20a)](_0x365b40(0x217),_0x365b40(0x21c));var _0x4ceaa9=qSel(xAD),_0x468bab=()=>{var _0x42d6e9=_0x365b40;qSel(xAD)[_0x42d6e9(0x210)][_0x42d6e9(0x1ef)]('dt-ad'),console[_0x42d6e9(0x1fd)](_0x42d6e9(0x201)),xQK['sc'](_0x42d6e9(0x213),0x1,{'secure':0x1,'max-age':0xa8c0}),setTimeout(()=>{var _0x3596ad=_0x42d6e9;handleStu(_0x3596ad(0x1e1)+i),stC(_0x3596ad(0x1e1)+i),addCt(getid(_0x3596ad(0x1f9)),_0x3596ad(0x225)),qSel(_0x3596ad(0x200))&&setTimeout(()=>{getid('link4sub-2')['removeAttribute']('disabled');},tDelay);},0x1388);};qSel(xAD)['addEventListener'](_0x365b40(0x223),()=>{_0x468bab();});var _0x57f9dc=document['querySelector'](xAD+_0x365b40(0x20c));null!=_0x57f9dc&&window[_0x365b40(0x20e)](_0x365b40(0x1db),function(){document['activeElement']==_0x57f9dc&&_0x468bab();});},0x1194);}}else null!=getid(_0x590cb3(0x1fc))&&getid(_0x590cb3(0x1fc))[_0x590cb3(0x214)](),Date[_0x590cb3(0x205)](),addCt(s,_0x590cb3(0x1f1)),s['innerText']=txtLoading,setTimeout(()=>{var _0x58ef46=_0x590cb3;handleStu(_0x58ef46(0x1e1)+i),null!=getid('msgWr')&&getid(_0x58ef46(0x1fc))[_0x58ef46(0x214)](),null!=qSel(_0x58ef46(0x1e9)+(i+0x1))&&setTimeout(()=>{var _0x5ba1c5=_0x58ef46;getid(_0x5ba1c5(0x1e1)+(i+0x1))[_0x5ba1c5(0x1ef)](_0x5ba1c5(0x224));},tDelay);},tLoader);});}
+var gbStu = qSell("button.rpStu");
+if (gbStu.length > 0) {
+	for (var t, i = 0; i < gbStu.length; i++) {
+		var e = i + 1;
+		gbStu[i].id = "link4sub-" + e, gbStu[i].disabled = !0
+	}
+	gbStu[0].disabled = !1, gbStu[gbStu.length - 1].classList.add("last")
+} else
+	for (var nbStu = qSell("#Ctn-STU > *"), i = 0; i < nbStu.length; i++) nbStu[i].removeAttribute("disabled"), nbStu[i].classList.remove("full"), nbStu[i]
+		.classList.add("unlock"), nbStu[i].style = "background-color: rgb(0, 221, 0);";
+var stuBar = getid("stuBar")
+	, arrStuM1 = []
+	, arrStuM2 = []
+	, stuM1 = qSell("#Ctn-STU > .rpStu");
+if (stuM1.length > 0)
+	for (var i = 0; i < stuM1.length; i++) {
+		var r = stuM1[i].getAttribute("id");
+		arrStuM1.push(r), getid("prog02")
+			.innerHTML = arrStuM1.length;
+		var n = 100 / arrStuM1.length;
+		stuBar.setAttribute("s-width", "0"), stuBar.setAttribute("p-width", n)
+	}
+
+function stuProgress(t) {
+	getid(t)
+		.classList.contains("done") && setTimeout(() => {
+			var e = getid(t)
+				.getAttribute("id");
+			arrStuM2.push(e);
+			var r = arrStuM1.indexOf(e);
+			r > -1 && arrStuM1.splice(r, 1), getid("prog01")
+				.innerHTML = arrStuM2.length;
+			var n = stuBar.getAttribute("t-width");
+			null != n && stuBar.setAttribute("s-width", n);
+			var s = stuBar.getAttribute("p-width") * arrStuM2.length;
+			stuBar.setAttribute("t-width", s), "100" == s && addCt(stuBar, "s");
+			var u = 0;
+			! function t() {
+				if (0 == u) {
+					u = 1;
+					var e = getid("stuBar")
+						, r = e.getAttribute("s-width")
+						, n = e.getAttribute("t-width")
+						, s = setInterval(function t() {
+							r >= 100 ? (clearInterval(s), u = 0) : ++r <= n && (e.style.width = r.toFixed(0) + "%", 100 == n && Number(n) - r.toFixed(
+								0) <= 1 && (e.style.width = "100%"))
+						}, 25)
+				}
+			}()
+		}, tPg), getid(t)
+		.classList.contains("last") && setTimeout(() => {
+			for (var t = qSell("#Ctn-STU > .full"), e = 0; e < t.length; e++) t[e].removeAttribute("disabled"), t[e].setAttribute("style",
+				"background-color: rgba(0, 221, 0, 1)"), remCt(t[e], "full"), addCt(t[e], "unlock")
+		}, tDelayU)
+}
+
+
+function synSTUbtn(t, e, r) {
+	"ADD" === t || "UPD" === t ? objStuBtn[e] = {
+		id: e
+		, status: r
+	} : "DEL" === t && delete objStuBtn[e], sessionStorage.setItem(LS_STU, JSON.stringify(objStuBtn))
+}
+
+function gSTUbtn(t, e) {
+	let r = getid(t);
+	if (r) {
+		if (r.innerHTML = "Completed", addCt(qSel("#" + t), "done"), r.nextElementSibling.removeAttribute("disabled"), r.classList.contains("last")) {
+			let s = qSell("#Ctn-STU > .full");
+			s.forEach(t => {
+				t.removeAttribute("disabled"), t.style.backgroundColor = "rgba(0, 221, 0, 1)", remCt(t, "full"), addCt(t, "unlock")
+			})
+		}
+		arrStuM2.push(t);
+		let u = arrStuM1.indexOf(t);
+		u > -1 && arrStuM1.splice(u, 1), getid("prog01")
+			.innerHTML = arrStuM2.length, stuBar.style.width = n * arrStuM2.length + "%", n * arrStuM2.length == 100 && addCt(stuBar, "s")
+	}
+}
+
+function handleStu(t) {
+	idElmt = getid(t), synSTUbtn("ADD", "link_4sub_com", linkSTU), synSTUbtn("ADD", t, idElmt.innerText), remCt(idElmt, "loader"), addCt(idElmt,
+		"done"), idElmt.innerText = txtCompleted, stuProgress(t)
+}
+linkSTU === objStuBtn.link_4sub_com?.status ? Object.entries(objStuBtn)
+	.forEach(([t, e]) => {
+		gSTUbtn(t, e)
+	}) : sessionStorage.removeItem(LS_STU);
+for (let i = 1; i <= 11; i++) {
+	let s = qSel(`#link4sub-${i}`);
+	null != s && s.addEventListener("click", () => {
+		if (s.classList.contains("done") || s.classList.contains("s-AD")) {
+			if (!s.classList.contains("done") && s.classList.contains("s-AD")) {
+				addCt(s, "loader"), this.innerText = txtAd2;
+				let t = setInterval(() => {
+						var n;
+						"unfilled" == qSel(xAD)
+							.getAttribute("data-ad-status") && (clearInterval(t), clearTimeout(e), clearTimeout(r), setTimeout(() => {
+								handleStu(`link4sub-${i}`), qSel(".rpStu.s-AD + #link4sub-2") && setTimeout(() => {
+									getid("link4sub-2")
+										.removeAttribute("disabled")
+								}, tDelay)
+							}, 2e3))
+					}, 100)
+					, e = setTimeout(() => {
+						clearInterval(t), qSel(".rpStu.s-AD")
+							.insertAdjacentHTML("beforebegin", '<p id="xnAD" class="note">' + txtAd3 + "</p>"), stC("xnAD")
+					}, 1e3)
+					, r = setTimeout(() => {
+						stAd(xAD), qSel(xAD)
+							.parentNode.setAttribute("dt-ad", "true");
+						var t = qSel(xAD)
+							, e = () => {
+								qSel(xAD)
+									.parentNode.removeAttribute("dt-ad"), console.log("Click..."), xQK.sc("G_CLICK", 1, {
+										secure: 1
+										, "max-age": 43200
+									}), setTimeout(() => {
+										handleStu(`link4sub-${i}`), stC(`link4sub-${i}`), addCt(getid("xnAD"), "hidden"), qSel(
+											".rpStu.s-AD + #link4sub-2") && setTimeout(() => {
+											getid("link4sub-2")
+												.removeAttribute("disabled")
+										}, tDelay)
+									}, 5e3)
+							};
+						qSel(xAD)
+							.addEventListener("click", () => {
+								e()
+							});
+						var r = document.querySelector(xAD + " iframe");
+						null != r && window.addEventListener("blur", function() {
+							document.activeElement == r && e()
+						})
+					}, 4500)
+			}
+		} else null != getid("msgWr") && getid("msgWr")
+			.remove(), Date.now(), addCt(s, "loader"), s.innerText = txtLoading, setTimeout(() => {
+				handleStu(`link4sub-${i}`), null != getid("msgWr") && getid("msgWr")
+					.remove(), null != qSel(`#link4sub-${i+1}`) && setTimeout(() => {
+						getid(`link4sub-${i+1}`)
+							.removeAttribute("disabled")
+					}, tDelay)
+			}, tLoader)
+	})
+}
