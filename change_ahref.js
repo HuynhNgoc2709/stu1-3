@@ -1,0 +1,1 @@
+const divElement = document.getElementById("ldApGm");const links = divElement.getElementsByTagName("a");for (let i = 0; i < links.length; i++) {const link = links[i];const url = link.href;link.href = "javascript:void(0);";link.setAttribute("onclick", `window.open('${url}', '_blank');`);}
